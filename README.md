@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @NoaJin112
-- 👀 I’m interested in [everything]
-- 🌱 I’m currently learning [everything]
-- 💞️ I’m looking to collaborate on [nothing]
-- 📫 How to reach me [not]
+Hi I'm a 22 year old student @Hanzehogeschool University of Applied Science.
 
-<!---
-NoaJin112/NoaJin112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
